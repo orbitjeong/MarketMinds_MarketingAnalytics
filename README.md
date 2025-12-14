@@ -30,13 +30,14 @@ The goal is to evaluate campaign effectiveness, buyer composition, and purchase 
 - Higher-income customers showed stronger campaign engagement
 
 ## 🖼 Dashboard Preview
-![Campaign Performance]([<img width="3026" height="1695" alt="Campaign Performance" src="https://github.com/user-attachments/assets/6eaf26c2-7ba1-4e30-9800-09dea27d06fb" />](https://github.com/orbitjeong/MarketMinds_MarketingAnalytics/issues/1)
+Campaign Performance
+([<img width="3026" height="1695" alt="Campaign Performance" src="https://github.com/user-attachments/assets/6eaf26c2-7ba1-4e30-9800-09dea27d06fb" />](https://github.com/orbitjeong/MarketMinds_MarketingAnalytics/issues/1)
 )
 
-![Buyer Composition]
+Buyer Composition
 <img width="3025" height="1698" alt="image" src="https://github.com/user-attachments/assets/199a328a-d4e5-4c42-9100-072fac8e1c81" />
 
-![Purchase Drivers]
+Purchase Drivers
 <img width="3026" height="1695" alt="image" src="https://github.com/user-attachments/assets/93212843-4f78-4f7d-9db5-5b9fb32ba229" />
 
 
