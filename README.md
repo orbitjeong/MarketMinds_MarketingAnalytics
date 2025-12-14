@@ -41,4 +41,4 @@ The goal is to evaluate campaign effectiveness, buyer composition, and purchase 
 
 
 ## 📥 Download
-- Power BI File: `Market_Minds_PowerBI.pbix`
+- Power BI File: `MarketMinds_MarketingAnalytics.pbix`
