@@ -30,8 +30,8 @@ The goal is to evaluate campaign effectiveness, buyer composition, and purchase 
 - Higher-income customers showed stronger campaign engagement
 
 ## 🖼 Dashboard Preview
-![Campaign Performance]
-<img width="3022" height="1692" alt="image" src="https://github.com/user-attachments/assets/30e34e52-a9ed-4b6f-8bde-de0cbf10c72e" />
+![Campaign Performance](<img width="3026" height="1695" alt="Campaign Performance" src="https://github.com/user-attachments/assets/6eaf26c2-7ba1-4e30-9800-09dea27d06fb" />
+)
 
 ![Buyer Composition]
 <img width="3025" height="1698" alt="image" src="https://github.com/user-attachments/assets/199a328a-d4e5-4c42-9100-072fac8e1c81" />
